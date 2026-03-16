@@ -1,0 +1,9 @@
+SamAccountName,Name,Enabled,LastLogonDate,PasswordLastSet,AccountExpirationDate,MemberOf,Department,Title,EmailAddress
+jdoe,John Doe,TRUE,2026-03-01 09:14:00,2025-12-10 08:00:00,,Domain Users;VPN Users,Finance,Accountant,jdoe@company.com
+asmith,Alice Smith,TRUE,2025-11-01 10:02:00,2025-06-15 08:00:00,,Domain Users;HR Users,HR,HR Manager,asmith@company.com
+bjohnson,Bob Johnson,TRUE,,2026-01-10 08:00:00,,Domain Users,IT,Helpdesk Technician,bjohnson@company.com
+tadmin,Tom Admin,TRUE,2026-03-10 11:55:00,2025-10-01 08:00:00,,Domain Admins;Administrators,IT,System Administrator,tadmin@company.com
+mlee,Mary Lee,FALSE,2024-10-10 09:30:00,2024-09-01 08:00:00,,Domain Users,Sales,Sales Rep,mlee@company.com
+rgarcia,Rafael Garcia,TRUE,2024-12-01 08:12:00,2024-05-10 08:00:00,,Domain Users;VPN Users,Marketing,Marketing Analyst,rgarcia@company.com
+jwhite,Jennifer White,TRUE,,2025-08-01 08:00:00,2025-12-01 00:00:00,Domain Users,Support,Customer Support,jwhite@company.com
+cking,Chris King,TRUE,2026-03-05 14:02:00,2025-11-15 08:00:00,,Enterprise Admins,IT,Infrastructure Engineer,cking@company.com

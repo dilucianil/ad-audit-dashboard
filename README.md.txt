@@ -1,0 +1,1 @@
+A Python and Streamlit dashboard for auditing exported Active Directory user data. Flags inactive accounts, stale passwords, expired users, never-logged-in accounts, and privileged group memberships using sample CSV data.
