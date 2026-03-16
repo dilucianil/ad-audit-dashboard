@@ -57,3 +57,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/ad-audit-dashboard.git
 cd ad-audit-dashboard
+```
+## Dashboard Screenshot
+![AD Audit Dashboard](screenshots/dashboard_overview.png)
