@@ -3,6 +3,8 @@ A lightweight Python and Streamlit dashboard for auditing exported Active Direct
 This tool analyzes an exported CSV of AD users and identifies common directory hygiene and security issues such as inactive accounts, stale passwords, expired accounts, and privileged group memberships.
 The goal of this project is to provide a simple internal tool for visualizing directory risk and prioritizing cleanup tasks.
 ---
+## Dashboard Screenshot
+![AD Audit Dashboard](screenshots/dashboard_overview.png)
 ## Features
 The dashboard identifies and visualizes:
 - Inactive accounts
@@ -58,5 +60,4 @@ Clone the repository:
 git clone https://github.com/yourusername/ad-audit-dashboard.git
 cd ad-audit-dashboard
 ```
-## Dashboard Screenshot
-![AD Audit Dashboard](screenshots/dashboard_overview.png)
+
